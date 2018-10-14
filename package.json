@@ -1,0 +1,16 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "php -S localhost:9000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
